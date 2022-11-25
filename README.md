@@ -1,4 +1,4 @@
 # Circuito-RC
 Programa en el cual se simula la acción de un circuito RC con respecto al tiempo.
 
-![CargaCapacitor](https://user-images.githubusercontent.com/108247794/189074570-4310530e-c4a3-4bb0-86e1-80fdd09f155b.png)
+![CargaCapacitor](https://user-images.githubusercontent.com/108247794/203945478-d9013f6a-8e24-4855-8878-199503fcf030.png)
